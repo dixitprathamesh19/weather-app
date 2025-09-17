@@ -44,9 +44,11 @@ Here are a few screenshots of the app:
   <img src="images/Weather_1.png" alt="Main Interface" width="30%" style="margin-right: 10px;">
   <br>
   Interface.
+  <br>
   <img src="images/Weather_2.png" alt="Weather Details" width="30%" style="margin-right: 10px;">
   <br>
   Result.
+  <br>
   <img src="images/Weather_3.png" alt="Error Message" width="30%">
   <br>
   Error after entering the wrong city name.
